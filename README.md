@@ -5,7 +5,7 @@ The application uses deepgram for audio transcription:
 Create a `.env` file in the root directory and add this ENV var: `DEEPGRAM_API_KEY`
 
 ```bash
-DEEPGRAM_API_KEY=":API_KEY
+DEEPGRAM_API_KEY=":API_KEY"
 ```
 
 This value will need to be a valid deepgram API key, instructions for getting one are here: https://developers.deepgram.com/docs/make-your-first-api-request
